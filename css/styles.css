@@ -6,17 +6,21 @@ h2 {
   text-align: center;
 }
 
-p {
+/* p {
   text-align: center;
-}
+} */
 
-div {
-  text-align: center;
+.border-box {
+  margin: 10px;
+  border: 10px solid #76549a;
+  padding: 10px;
+  background-color: #fcf8E8;
+  box-sizing: border-box;
 }
 
 .centered-image {
   margin: auto;
-  width: 50%;
+  width: 20%;
   height: auto;
   display: block;
 }
