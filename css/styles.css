@@ -3,8 +3,9 @@ body {
 }
 
 .background {
-  background-color: #94B49F;
+  background-color: #94b49f;
 }
+
 h1 {
   text-align: center;
 }
@@ -13,9 +14,9 @@ h2 {
   text-align: center;
 }
 
-/* p {
-  text-align: center;
-} */
+p {
+  font-size: larger;
+}
 
 .border-box {
   margin: 1px;
