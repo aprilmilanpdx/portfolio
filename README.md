@@ -11,6 +11,7 @@
 * _HTML_
 * _CSS_
 * _Bootstrap_
+* _Markdown_
 * _Visual Studio Code_
 
 ## Description
