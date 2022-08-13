@@ -18,6 +18,10 @@ p {
   font-size: larger;
 }
 
+li {
+  font-size: larger;
+}
+
 .border-box {
   margin: 1px;
   border: 10px solid #76549a;
