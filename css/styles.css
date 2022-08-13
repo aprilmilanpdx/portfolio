@@ -53,3 +53,7 @@ p {
 .bigger {
   font-size: larger;
 }
+
+.important {
+  color:#ccafeb;
+}
