@@ -1,9 +1,9 @@
-body {
-  font-family: Baskerville, "Baskerville Old Face", Goudy Old Style", "Garamond", "Times New Roman", serif;  
-}
-
 .background {
   background-color: #94b49f;
+}
+
+body {
+  font-family: Baskerville, "Baskerville Old Face", Goudy Old Style", "Garamond", "Times New Roman", serif;  
 }
 
 h1 {
