@@ -28,7 +28,7 @@ _An HTML, CSS, and Bootstrap based webpage displaying April Milan's portfolio wi
 
 ## License
 
-_MIT_
+_MIT._
 _If you run into any issues or have questions, ideas or concerns, please do not hesitate to contact me aprilmilanpdx@gmail.com._
 
 Copyright (c) _2022_ _April Milan_
