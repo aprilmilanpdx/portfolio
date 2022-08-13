@@ -16,6 +16,9 @@
 ## Description
 _An HTML, CSS, and Bootstrap based webpage displaying April Milan's portfolio with "About Me", "Portfolio" with GitHub links for individual projects, and "Get in Touch" contact information and links._
 
+## GitHub Pages Link
+https://aprilmilanpdx.github.io/portfolio/
+
 ## Setup/Installation Requirements
 
 * _Clone this GitHub repository into a local folder_
