@@ -41,11 +41,15 @@ p {
 .main {
   width: 40%;
   height: auto;
-  float: right;
+  float: left;
 }
 
 .sidebar {
   width: 50%;
-  float: left;
+  float: right;
   background-color: #94b49f;
+}
+
+.bigger {
+  font-size: larger;
 }
