@@ -2,6 +2,9 @@ body {
   font-family: Baskerville, "Baskerville Old Face", Goudy Old Style", "Garamond", "Times New Roman", serif;  
 }
 
+.background {
+  background-color: #94B49F;
+}
 h1 {
   text-align: center;
 }
@@ -15,7 +18,7 @@ h2 {
 } */
 
 .border-box {
-  margin: 10px;
+  margin: 1px;
   border: 10px solid #76549a;
   padding: 10px;
   background-color: #fcf8E8;
