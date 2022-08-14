@@ -26,10 +26,15 @@ li {
   font-size: larger;
 }
 
-.container-padding {
-  padding-left: 10px;
-  padding-right: 10px;
+a {
+  color: #ff9900ed;
 }
+.container-padding {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
 .border-box {
   margin: 1px;
   border: 10px solid #76549a;
@@ -55,6 +60,10 @@ li {
   float: right;
   background-color: #afc1b5;
   padding: 10px;
+}
+
+.sidebar a {
+  color: #ad6a06ed;
 }
 
 .bigger {
